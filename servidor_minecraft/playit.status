@@ -1,2304 +1,930 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1740095551041 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1740098278315 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095554223 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098281435 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095557310 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098284507 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095560406 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098288509 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095563497 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098291679 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095566577 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098295456 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095569663 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098298573 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095572825 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098301752 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095575985 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098304850 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095579170 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098307954 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095582262 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098311070 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095586741 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098314240 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095590014 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098317435 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095593132 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098321578 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095596317 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098324659 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095599390 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098327730 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095602621 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098330837 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095605954 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098333957 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095609215 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098337171 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095613062 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098340272 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095616238 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098343461 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095619318 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098346629 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095622411 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098349710 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095625711 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098352810 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095629304 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098356077 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095632385 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098359209 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095635476 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098362284 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095638617 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098365509 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095641768 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098368590 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095644875 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098371735 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095647973 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098376458 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095651073 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098379667 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095654356 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098382755 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095657452 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098385843 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095660543 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098389235 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095663647 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098392369 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095666816 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098395733 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095669893 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098398841 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095673172 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098401915 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095676255 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098404992 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095680203 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098408123 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095683346 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098411243 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095687205 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098414431 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095690356 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098417611 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095693443 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098420722 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095696592 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098423855 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095699710 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098426935 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095702807 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098430149 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095705916 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098433237 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095709304 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098436453 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095712648 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098439520 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095715909 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098442726 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095719068 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098447182 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095722209 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098450269 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095725288 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098453486 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095728527 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098456685 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095731600 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098459874 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095734683 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098463032 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095737775 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098466107 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095740903 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098469207 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095743977 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098472630 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095747059 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098475949 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095750143 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098479020 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095754189 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098482110 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095757273 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098485203 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095760370 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098488272 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095763454 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098492562 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095766537 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098495637 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095769779 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098498748 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095772941 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098502656 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095776068 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098505776 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095779303 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098508932 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095782414 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098512213 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095785491 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098515473 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095788592 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098518695 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095791742 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098522173 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095794943 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098525364 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095798035 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098528605 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095801119 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098531707 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095804366 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098534798 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095807679 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098539082 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095810767 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098542168 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095813843 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098545831 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095816914 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098548925 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095820559 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098552027 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095823744 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098555138 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095826865 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098558249 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095829966 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098561341 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095833058 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098564454 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095836137 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098568406 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095839739 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098571482 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095843836 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098574636 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095847022 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098577709 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095850184 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098580885 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095853350 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098583980 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095856528 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098587105 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095859609 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098590203 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095862823 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098593359 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095865892 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098597422 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095868974 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098600493 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095872144 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098603582 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095875266 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098606714 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095878430 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098609803 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095881566 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098613070 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095884637 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098616152 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095887813 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098619347 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095890957 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098622533 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095894038 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098625613 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095897278 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098628759 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095900438 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098631857 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095903576 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098634976 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095906694 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098638048 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095909834 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098641257 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095912917 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098644346 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095916022 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098647416 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095919184 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098650502 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095922262 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098653579 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095925341 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098656662 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095928414 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098659790 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095931480 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098662885 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095934645 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098666033 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095937917 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098669149 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095940992 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098672241 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095944663 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098675319 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095947918 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098678389 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095951036 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098682342 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095954156 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098685573 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095957293 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098688791 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095960465 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098691910 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095963534 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098695036 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095966650 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098698120 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095969738 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098701329 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095972839 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098704541 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095975953 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098707610 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095979181 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098710851 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095982245 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098713925 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095985347 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098717157 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095988426 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098720254 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095991512 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098724148 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095994797 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098727322 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740095997865 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098730632 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096001069 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098733704 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096004287 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098736787 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096007396 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098739865 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096010478 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098743856 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096013557 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098747531 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096016679 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098750609 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096019877 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098753685 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096022964 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098756851 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096026090 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098759928 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096029313 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098763000 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096032415 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098766089 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096035557 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098769160 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096038722 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098772281 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096041825 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098775447 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096044944 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098778559 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096048031 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098781628 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096051198 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098784705 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096054332 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098787774 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096057561 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098790855 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096060851 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098793931 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096063951 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098797023 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096067028 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098800090 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096070228 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098803166 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096073423 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098807420 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096076553 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098810498 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096079734 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098813580 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096082926 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098816656 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096086014 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098819752 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096089116 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098822895 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096092221 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098826038 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096095303 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098829159 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096098417 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098832266 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096101527 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098835344 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096104601 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098838452 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096107798 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098841528 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096110967 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098844614 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096114948 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098847806 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096118205 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098850877 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096121346 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098853977 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096124501 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098857098 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096127569 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098860172 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096130680 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098863306 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096133747 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098866375 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096137075 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098869448 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096140209 tunnel running, 1 tunnels registered
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740098872523 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096143280 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096146350 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096149431 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096152946 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096156038 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096159133 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096162297 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096165391 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096168674 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096171758 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096174856 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096177927 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096181007 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096184248 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096187388 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096191226 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096194299 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096197893 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096200976 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096204049 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096207277 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096210354 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096213477 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096216627 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096219748 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096222948 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096226085 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096229222 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096232344 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096235452 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096238574 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096241784 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096244971 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096248062 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096251142 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096254290 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096257368 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096260772 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096263890 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096267064 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096270210 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096273316 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096276390 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096279498 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096282650 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096285848 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096288927 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096292221 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096295311 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096298501 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096301574 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096306120 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096309330 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096312404 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096315529 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096318850 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096321956 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096325239 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096328385 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096331828 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096334908 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096337993 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096341215 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096344287 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096347553 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096350630 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096353864 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096357057 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096360130 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096363244 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096366313 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096369406 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096372554 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096375752 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096379929 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096383144 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096386257 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096389346 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096392508 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096395575 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096398751 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096401984 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096405105 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096408339 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096411563 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096414647 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096417850 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096421020 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096424118 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096427247 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096430624 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096433697 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096436973 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096440111 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096443273 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096446360 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096449466 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096452542 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096455615 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096458691 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096461765 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096465455 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096468543 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096471613 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096474760 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096477895 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096480982 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096484050 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096487360 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096490525 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096493608 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096496749 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096499834 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096502925 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096506049 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096509284 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096512370 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096515444 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096518576 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096521715 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096524913 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096528001 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096531137 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096534363 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096537556 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096540639 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096543885 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096546989 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096550133 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096553249 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096556371 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096559444 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096562542 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096565662 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096568742 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096571946 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096575138 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096578317 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096581480 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096584655 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096587726 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096590830 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096593908 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096596986 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096600062 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096603139 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096606335 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096609461 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096612544 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096615626 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096618712 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096621786 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096624861 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096628047 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096631168 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096634361 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096637432 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096640645 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096643726 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096646897 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096649967 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096653100 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096656189 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096659278 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096662387 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096665464 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096668623 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096671782 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096674873 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096677950 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096681060 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096684145 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096687277 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096690410 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096694809 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096697978 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096701306 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096704403 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096707487 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096711995 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096715077 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096718161 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096721314 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096724415 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096727486 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096730744 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096734080 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096737211 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096740419 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096743569 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096746685 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096749830 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096752965 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096756146 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096759225 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096762394 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096765483 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740096768637 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-chat-shine.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+local-gi.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
